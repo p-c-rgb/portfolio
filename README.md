@@ -1,4 +1,4 @@
-# Aspiring analyst 
+# Portfolio
 
 #### Technical Skills: Excel, SQL
 
