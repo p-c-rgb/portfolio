@@ -1,4 +1,4 @@
-# Aspiring data analyst 
+# Aspiring analyst 
 
 #### Technical Skills: Excel, SQL
 
